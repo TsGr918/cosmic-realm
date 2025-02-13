@@ -1,2 +1,2 @@
 # cosmic-realm
-my-portfolio
+My-portfolio
